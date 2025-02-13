@@ -1,5 +1,3 @@
-# content-portfolio
-A portfolio showcasing my content writing, editing, and research work.
 # 📚 Content Writing & Research Portfolio
 
 Welcome to my portfolio! I specialize in content writing, editing, and research, particularly in AI, technology, and digital marketing. Below, you'll find examples of my work across different formats, including articles, technical documentation, and research-based content.
